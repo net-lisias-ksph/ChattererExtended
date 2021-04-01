@@ -1,5 +1,7 @@
 # Chatterer Extended :: Change Log
 
+* 2018-0405: 0.6.2 (hoover2701) for KSP 1.4.2
+	+ corrected version checker file for KSP 1.4.2
 * 2017-0529: 0.6.1 (hoover2701) for KSP 1.3.0
 	+ corrected version checker file for KSP 1.3
 * 2017-0526: 0.6 (hoover2701) for KSP 1.2.2
