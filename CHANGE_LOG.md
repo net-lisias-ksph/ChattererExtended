@@ -1,5 +1,7 @@
 # Chatterer Extended :: Change Log
 
+* 2017-0529: 0.6.1 (hoover2701) for KSP 1.3.0
+	+ corrected version checker file for KSP 1.3
 * 2017-0526: 0.6 (hoover2701) for KSP 1.2.2
 	+ added Apollo 12 Chatterer files (45 clips)
 	+ added Apollo 17 Chatterer files (70 clips)
