@@ -1,5 +1,7 @@
 # Chatterer Extended :: Change Log
 
+* 2017-0518: 0.4 (hoover2701) for KSP 1.2.2
+	+ added Expedition 51 Chatterer files (80 clips)
 * 2017-0515: 0.3 (hoover2701) for KSP 1.2.2
 	+ replaced faulty "capcom_23.ogg" (Apollo 10)
 	+ added more Apollo 10-chatter (now 120 clips)
