@@ -1,5 +1,7 @@
 # Chatterer Extended :: Change Log
 
+* 2017-0522: 0.5 (hoover2701) for KSP 1.2.2
+	+ added STS-51d Chatterer files (100 clips)
 * 2017-0518: 0.4 (hoover2701) for KSP 1.2.2
 	+ added Expedition 51 Chatterer files (80 clips)
 * 2017-0515: 0.3 (hoover2701) for KSP 1.2.2
