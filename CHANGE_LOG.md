@@ -1,0 +1,2 @@
+# Chatterer Extended :: Change Log
+
